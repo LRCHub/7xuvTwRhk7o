@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "失楽園",
+  "base_artist": "Reol",
+  "createdAt": "2025-12-24T12:56:19.239567Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "失楽園",
+      "artist": "Reol",
+      "has_synced": true,
+      "path": "select/01_失楽園_Reol.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "失楽園",
+      "artist": "QUEEN BEE",
+      "has_synced": true,
+      "path": "select/02_失楽園_QUEEN_BEE.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "失楽園",
+      "artist": "ライチ☆光クラブ",
+      "has_synced": false,
+      "path": "select/03_失楽園_ライチ☆光クラブ.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "失楽園",
+      "artist": "女王蜂",
+      "has_synced": true,
+      "path": "select/04_失楽園_女王蜂.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "失楽園 (feat. Tokyo Elvis)",
+      "artist": "Re:O",
+      "has_synced": false,
+      "path": "select/05_失楽園_(feat._Tokyo_Elvis)_Re_O.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "失楽園",
+      "artist": "Reol",
+      "has_synced": false,
+      "path": "select/pl_01_失楽園_Reol.txt"
+    }
+  ]
+}
